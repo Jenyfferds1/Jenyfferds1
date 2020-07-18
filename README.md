@@ -4,9 +4,9 @@
 **Jenyfferds1/Jenyfferds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 :octocat: Hi!
 
-💻 Front end Developer
+💻 Full stack Developer
 
-🛠️ Angular
+🛠️ JavaScript
 🛠️ TypeScript
 🛠️ Jest
 🛠️ Mocha
@@ -14,12 +14,12 @@
 🛠️ Git
 📚 Learning ReactJS, NodeJS
 
-🏢 Work at Accenture
+
 🎓 BootCamp Front end Developer: @laboratoriala
 🎓 Degree: Civil Engineer
 
 Here are some ideas to get you started:
-
+🏢 Work at Santander Barsil
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
